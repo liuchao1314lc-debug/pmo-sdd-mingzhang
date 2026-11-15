@@ -1,0 +1,6 @@
+{
+  "name": "pmo",
+  "version": "0.1.0",
+  "description": "项目治理、阶段门禁核验、需求回溯与能力供需对账。",
+  "skills": "./skills"
+}

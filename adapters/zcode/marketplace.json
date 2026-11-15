@@ -1,0 +1,13 @@
+{
+  "name": "pmo-local",
+  "description": "PMO 本地插件市场",
+  "plugins": [
+    {
+      "name": "pmo",
+      "displayName": "PMO 项目治理",
+      "description": "项目治理、阶段门禁核验、需求回溯与能力供需对账。",
+      "source": "./plugins/pmo",
+      "version": "0.1.0"
+    }
+  ]
+}
